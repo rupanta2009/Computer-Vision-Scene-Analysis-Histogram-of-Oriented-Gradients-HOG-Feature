@@ -1,6 +1,4 @@
-# Computer Vision and Scene Analysis Project 2
 # Name          : RUPANTA RWITEEJ DUTTA
-# University ID : N15786532
 # Creation Date : Tue Dec 22 2:42:51 2015 Eastern Daylight Time
 
 from PIL import Image
